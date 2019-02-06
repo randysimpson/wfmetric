@@ -13,7 +13,7 @@
   "author": "Randall Simpson",
   "license": "MIT",
   "repository": "github:randysimpson/wfmetric",
-  {
+  "bugs": {
     "url" : "https://github.com/randysimpson/wfmetric/issues"
   }
 }
