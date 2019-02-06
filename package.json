@@ -1,6 +1,6 @@
 {
   "name": "wfmetric",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Library to send metrics to a wavefront proxy when using the powerful vmware wavefront monitoring and analytics tool.  Official Wavefront NPM package is https://www.npmjs.com/package/wavefrontmetrics",
   "main": "wfmetric.js",
   "scripts": {
@@ -12,5 +12,8 @@
   ],
   "author": "Randall Simpson",
   "license": "MIT",
-  "repository": "github:randysimpson/wfmetric"
+  "repository": "github:randysimpson/wfmetric",
+  {
+    "url" : "https://github.com/randysimpson/wfmetric/issues"
+  }
 }
